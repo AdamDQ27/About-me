@@ -18,7 +18,4 @@ I am a **Computer Science student** at Tech University. I am currently learning 
 ### Current Project
 I am working on a file named `index.html` to build my first website.
 
-## Contact
-* Email: alex.code@example.com
-* GitHub: [alexcode-dev](https://github.com/alexcode-dev)
 
