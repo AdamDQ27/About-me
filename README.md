@@ -1,2 +1,1 @@
-# About-me
-my first repository
+*hi im adam*
